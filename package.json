@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentflix01/1-node-farm.git"
+  },
+  "author": "sintayehy mulugeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sentflix01/1-node-farm/issues"
+  },
+  "homepage": "https://github.com/sentflix01/1-node-farm#readme"
+}
